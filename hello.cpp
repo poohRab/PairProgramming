@@ -1,6 +1,5 @@
 #include <iostream>
 #include <stdio.h>
-#include "hello.hpp"
 
 using namespace std;
 
